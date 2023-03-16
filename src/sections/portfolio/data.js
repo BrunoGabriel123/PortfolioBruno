@@ -18,15 +18,6 @@ const data = [
     {
         id: 2,
         category: 'Front End',
-        image: Image2,
-        title: "Todo App ",
-        desc: "Ferramenta de gestão de tempo para tarefas, aonde o usuario lista todos seus afazeres .Utilizando Typescript, React, Sass e Vite! ",
-        demo: 'https://zippy-raindrop-31f1b2.netlify.app/',
-        github: 'https://github.com/BrunoGabriel123/todo'
-    },
-    {
-        id: 3,
-        category: 'Front End',
         image: Image3,
         title: "Calculadora",
         desc: "Classica calculadora desenvolvida com React! contendo todas as funcionalidades de uma calculadora e todos os seus operadores",
